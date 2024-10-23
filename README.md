@@ -37,3 +37,23 @@ https://integrador-front-wine.vercel.app/
 - https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina/home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/Papas-Cheddar-1.png
 - https://bk-latam-prod.s3.amazonaws.com/sites/burgerking.latam/files/BK_Web_COCACOLALIGHT_300x270px_0.jpg
 
+## Instalación y configuración
+
+### Prerrequisitos
+- **Node.js** y **npm** instalados.
+
+### Pasos de instalación
+1. Clonar el repositorio:
+   ```bash
+   git clone https://github.com/gonzalovmm/Integrador-Front.git
+   cd (rutear donde se guardó)
+    ```
+2. Instalar las dependencias del proyecto: 
+    ```bash
+    npm install
+    ```
+3. Iniciar el servidor de desarrollo:
+    ```bash
+    npm run dev
+    ```
+4. Abrir el proyecto en el navegador desde Local Host
