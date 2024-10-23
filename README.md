@@ -14,6 +14,7 @@ Gonzalo Van Megroot - 3K10 - Desarrollo de Software - Universidad Tecnológica N
 
 ![PopUP 2](./capturas/popup2.png)
 
+
 ## Deployment
 
 Link del Vercel:
