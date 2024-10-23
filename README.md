@@ -10,7 +10,7 @@ Gonzalo Van Megroot - 3K10 - Desarrollo de Software - Universidad Tecnológica N
 
 ![Gaseosas](./capturas/gaseosas.png)
 
-![PopUP 1](./capturas/popup.png)
+![PopUP 1](./capturas/popup.png.png)
 
 ![PopUP 2](./capturas/popup2.png)
 
@@ -18,7 +18,7 @@ Gonzalo Van Megroot - 3K10 - Desarrollo de Software - Universidad Tecnológica N
 
 Link del Vercel:
 
-https://integrador-front-jet.vercel.app/
+https://integrador-front-wine.vercel.app/
 
 ## Tecnologías Utilizadas
 
